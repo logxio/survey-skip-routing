@@ -11,11 +11,11 @@ Simulator-agnostic skip-logic KL projection ($T_\rho$), cross-fitted Prediction-
 
 Household and longitudinal surveys (XLSForm / KoBoToolbox `relevant` filters, MICS modules, post-intervention panel waves) route respondents through conditional sub-questionnaires. Standard predictors, whether LLM persona simulators, tabular foundation models, or gradient-boosted trees, output substantive answer probabilities jointly with `NA_GATED` skip codes. Whenever skip or attrition probability drifts, joint normalization distorts substantive answer odds.
 
-Decoupling *whether an item is asked* ($\rho$) from *how asked respondents answer* yields an exact closed-form rescaling $T_\rho$ onto $\{q \in \Delta^{K-1} : q_s = \rho\}$:
+Decoupling *whether an item is asked* ($\rho$) from *how asked respondents answer* yields an exact closed-form rescaling $T_\rho$ onto $`\{q \in \Delta^{K-1} : q_s = \rho\}`$:
 
-$$
-(T_\rho b)_s = \rho, \qquad (T_\rho b)_k = (1 - \rho)\frac{b_k}{1 - b_s} \quad (k < s), \qquad H(p^*, b) - H(p^*, T_\rho b) = D_{\mathrm{KL}}^{\mathrm{Bern}}(\pi^* \| b_s) - D_{\mathrm{KL}}^{\mathrm{Bern}}(\pi^* \| \rho).
-$$
+```math
+(T_\rho b)_s = \rho, \qquad (T_\rho b)_k = (1 - \rho)\frac{b_k}{1 - b_s} \quad (k < s), \qquad H(p^{\ast}, b) - H(p^{\ast}, T_\rho b) = D_{\mathrm{KL}}^{\mathrm{Bern}}(\pi^{\ast} \| b_s) - D_{\mathrm{KL}}^{\mathrm{Bern}}(\pi^{\ast} \| \rho).
+```
 
 $T_\rho$ uniquely minimizes both forward and reverse KL divergence onto the skip-constrained simplex. Cross-entropy drops whenever binary skip KL risk decreases, while asked-conditional substantive answer odds remain strictly invariant.
 
@@ -24,7 +24,7 @@ $T_\rho$ uniquely minimizes both forward and reverse KL divergence onto the skip
 `toolkit/survey_routing.py` (`numpy` only) wraps probability tables from **any** LLM respondent simulator or tabular model without installing the full competition stack:
 
 1. `project_skip_probability(probs, rho, skip_idx=-1, floor=0.0)` recalibrates filter-skip or wave-attrition mass via $T_\rho$ without perturbing substantive answer ratios.
-2. `ppi_categorical_ci(y_labeled, probs_labeled_oof, probs_unlabeled)` pairs cross-fitted predictions on primary human interviews with predictions on augmented respondents to deliver unbiased category shares, asymptotic confidence intervals, and the **effective fieldwork sample multiplier** $n_{\mathrm{eff}} / n = (\mathrm{SE}_{\mathrm{human}} / \mathrm{SE}_{\mathrm{PPI}})^2 \ge 1$ ([Angelopoulos et al., *Science* 2023](https://doi.org/10.1126/science.adi6000); [PPI++, arXiv:2311.01453](https://arxiv.org/abs/2311.01453)).
+2. `ppi_categorical_ci(y_labeled, probs_labeled_oof, probs_unlabeled)` pairs cross-fitted predictions on primary human interviews with predictions on augmented respondents to deliver unbiased category shares, asymptotic confidence intervals, and the **effective fieldwork sample multiplier** $`n_{\mathrm{eff}} / n = (\mathrm{SE}_{\mathrm{human}} / \mathrm{SE}_{\mathrm{PPI}})^2 \ge 1`$ ([Angelopoulos et al., *Science* 2023](https://doi.org/10.1126/science.adi6000); [PPI++, arXiv:2311.01453](https://arxiv.org/abs/2311.01453)).
 3. `interview_budget_plan(target_effective_n, n_eff_multiplier, cost_per_interview)` translates empirical sample multipliers directly into primary interview counts and fieldwork budget savings.
 
 ```python
