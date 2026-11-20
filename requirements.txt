@@ -1,0 +1,13 @@
+tabpfn==9.2.0
+einops==0.8.2
+pydantic==2.14.1
+pydantic-settings==2.16.0
+lightgbm==4.6.0
+skrub==0.10.1
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.7.2
+catboost==1.2.10
+structured-data-models==0.2.1

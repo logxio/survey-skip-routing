@@ -1,0 +1,3450 @@
+[
+  {
+    "country": "Brazil",
+    "item": "Q06",
+    "option": "No, it does not matter to me what my religious leaders believe about the COVID-19 vaccine",
+    "reported_percent": 61,
+    "conditions": {},
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q06",
+    "option": "Not sure",
+    "reported_percent": 1,
+    "conditions": {},
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q06",
+    "option": "Yes, it matters what my religious leaders believe about the COVID-19 vaccine and if they support it",
+    "reported_percent": 23,
+    "conditions": {},
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q07",
+    "option": "No",
+    "reported_percent": 16,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q07",
+    "option": "Not sure",
+    "reported_percent": 18,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q07",
+    "option": "Yes",
+    "reported_percent": 66,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q08",
+    "option": "No",
+    "reported_percent": 4,
+    "conditions": {},
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q08",
+    "option": "Yes",
+    "reported_percent": 96,
+    "conditions": {},
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q09",
+    "option": "No",
+    "reported_percent": 59,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q09",
+    "option": "Yes",
+    "reported_percent": 41,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q10",
+    "option": "I am afraid of the potential side effects of the COVID-19 Vaccine",
+    "reported_percent": 23,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q10",
+    "option": "I am not confident that the vaccine will protect me",
+    "reported_percent": 32,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q10",
+    "option": "I believe God/Allah/Adonai/gods and goddesses/higher power will protect me from COVID-19",
+    "reported_percent": 4,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q10",
+    "option": "I do not feel at risk of catching COVID-19",
+    "reported_percent": 11,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q10",
+    "option": "It's not that serious. If I catch COVID-19 I can recover without vaccine",
+    "reported_percent": 5,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q10",
+    "option": "Other",
+    "reported_percent": 25,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p34"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q12",
+    "option": "Clear information on vaccine safety and side effects",
+    "reported_percent": 22,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q12",
+    "option": "Doing my part to protect my community",
+    "reported_percent": 24,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q12",
+    "option": "Government guidance",
+    "reported_percent": 3,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q12",
+    "option": "Other",
+    "reported_percent": 8,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q12",
+    "option": "Public statements by influential persons",
+    "reported_percent": 2,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q12",
+    "option": "Seeing religious leaders lead by example through taking the vaccine publicly",
+    "reported_percent": 7,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q12",
+    "option": "Social media or traditional media",
+    "reported_percent": 5,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q12",
+    "option": "Strong recommendation from the persons I trust most",
+    "reported_percent": 13,
+    "conditions": {},
+    "source": "report PDF p35"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q14",
+    "option": "Not at all important",
+    "reported_percent": 4,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q14",
+    "option": "Not sure",
+    "reported_percent": 1,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q14",
+    "option": "Somehow Important",
+    "reported_percent": 30,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q14",
+    "option": "Very Important",
+    "reported_percent": 65,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q15",
+    "option": "Family member",
+    "reported_percent": 40,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q15",
+    "option": "Health worker",
+    "reported_percent": 32,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q15",
+    "option": "Other",
+    "reported_percent": 23,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q16",
+    "option": "No",
+    "reported_percent": 11,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q16",
+    "option": "Yes",
+    "reported_percent": 89,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q17",
+    "option": "No",
+    "reported_percent": 6,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q17",
+    "option": "No response",
+    "reported_percent": 0,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q17",
+    "option": "Not sure",
+    "reported_percent": 13,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q17",
+    "option": "Only some religious leaders support vaccination for children",
+    "reported_percent": 19,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q17",
+    "option": "Yes",
+    "reported_percent": 62,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q18",
+    "option": "Discourages child vaccination",
+    "reported_percent": 7,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q18",
+    "option": "Does not affect decision for child vaccination",
+    "reported_percent": 45,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q18",
+    "option": "Encourages child vaccination",
+    "reported_percent": 40,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Brazil",
+    "item": "Q18",
+    "option": "Not sure",
+    "reported_percent": 8,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q07",
+    "option": "No",
+    "reported_percent": 10,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q07",
+    "option": "Not sure",
+    "reported_percent": 35,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q07",
+    "option": "Yes",
+    "reported_percent": 54,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q08",
+    "option": "No",
+    "reported_percent": 22,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q08",
+    "option": "Yes",
+    "reported_percent": 78,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q09",
+    "option": "No",
+    "reported_percent": 49,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q09",
+    "option": "Not sure",
+    "reported_percent": 21,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q09",
+    "option": "Yes",
+    "reported_percent": 30,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q11",
+    "option": "Family member",
+    "reported_percent": 25,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q11",
+    "option": "Health worker",
+    "reported_percent": 20,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q11",
+    "option": "Other",
+    "reported_percent": 41,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q12",
+    "option": "Clear information on vaccine safety and side effects",
+    "reported_percent": 38,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q12",
+    "option": "Doing my part to protect my community",
+    "reported_percent": 8,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q12",
+    "option": "Government guidance",
+    "reported_percent": 10,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q12",
+    "option": "Other",
+    "reported_percent": 11,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q12",
+    "option": "Public statements by influential persons",
+    "reported_percent": 3,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q12",
+    "option": "Seeing religious leaders lead by example through taking the vaccine publicly",
+    "reported_percent": 11,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q12",
+    "option": "Social media or traditional media",
+    "reported_percent": 7,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q12",
+    "option": "Strong recommendation from the persons I trust most",
+    "reported_percent": 11,
+    "conditions": {},
+    "source": "report PDF p27"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q14",
+    "option": "Not at all important",
+    "reported_percent": 9,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q14",
+    "option": "Not sure",
+    "reported_percent": 6,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q14",
+    "option": "Somehow Important",
+    "reported_percent": 25,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q14",
+    "option": "Very Important",
+    "reported_percent": 60,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q15",
+    "option": "Family member",
+    "reported_percent": 31,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q15",
+    "option": "Health worker",
+    "reported_percent": 32,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q15",
+    "option": "Other",
+    "reported_percent": 30,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q16",
+    "option": "No",
+    "reported_percent": 43,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q16",
+    "option": "Yes",
+    "reported_percent": 57,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q17",
+    "option": "No",
+    "reported_percent": 9,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q17",
+    "option": "No response",
+    "reported_percent": 0,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q17",
+    "option": "Not sure",
+    "reported_percent": 27,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q17",
+    "option": "Only some religious leaders support vaccination for children",
+    "reported_percent": 7,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q17",
+    "option": "Yes",
+    "reported_percent": 57,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q18",
+    "option": "Discourages child vaccination",
+    "reported_percent": 4,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q18",
+    "option": "Does not affect decision for child vaccination",
+    "reported_percent": 12,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q18",
+    "option": "Encourages child vaccination",
+    "reported_percent": 66,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Egypt",
+    "item": "Q18",
+    "option": "Not sure",
+    "reported_percent": 18,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q07",
+    "option": "No",
+    "reported_percent": 22,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q07",
+    "option": "Not sure",
+    "reported_percent": 31,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q07",
+    "option": "Yes",
+    "reported_percent": 46,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q08",
+    "option": "No",
+    "reported_percent": 33,
+    "conditions": {},
+    "source": "report PDF p18"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q08",
+    "option": "Yes",
+    "reported_percent": 67,
+    "conditions": {},
+    "source": "report PDF p18"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q09",
+    "option": "Yes",
+    "reported_percent": 21,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p19"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q11",
+    "option": "Family member",
+    "reported_percent": 32,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q11",
+    "option": "Health worker",
+    "reported_percent": 30,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q11",
+    "option": "Other",
+    "reported_percent": 24,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q11",
+    "option": "Peer/friend",
+    "reported_percent": 8,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q11",
+    "option": "Religious leader",
+    "reported_percent": 7,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q12",
+    "option": "Clear information on vaccine safety and side effects",
+    "reported_percent": 22,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q12",
+    "option": "Government guidance",
+    "reported_percent": 2,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q12",
+    "option": "Other",
+    "reported_percent": 18,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q12",
+    "option": "Public statements by influential persons",
+    "reported_percent": 3,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q12",
+    "option": "Seeing religious leaders lead by example through taking the vaccine publicly",
+    "reported_percent": 23,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q12",
+    "option": "Social media or traditional media",
+    "reported_percent": 4,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q12",
+    "option": "Strong recommendation from the persons I trust most",
+    "reported_percent": 10,
+    "conditions": {},
+    "source": "report PDF p33"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q14",
+    "option": "Not at all important",
+    "reported_percent": 20,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q14",
+    "option": "Not sure",
+    "reported_percent": 11,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q14",
+    "option": "Somehow Important",
+    "reported_percent": 25,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q14",
+    "option": "Very Important",
+    "reported_percent": 44,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q15",
+    "option": "Family member",
+    "reported_percent": 31,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q15",
+    "option": "Health worker",
+    "reported_percent": 29,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q15",
+    "option": "Other",
+    "reported_percent": 24,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q16",
+    "option": "No",
+    "reported_percent": 28,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q16",
+    "option": "Yes",
+    "reported_percent": 72,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q17",
+    "option": "No",
+    "reported_percent": 7,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q17",
+    "option": "No response",
+    "reported_percent": 0,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q17",
+    "option": "Not sure",
+    "reported_percent": 28,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q17",
+    "option": "Only some religious leaders support vaccination for children",
+    "reported_percent": 26,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q17",
+    "option": "Yes",
+    "reported_percent": 39,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q18",
+    "option": "Discourages child vaccination",
+    "reported_percent": 17,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q18",
+    "option": "Does not affect decision for child vaccination",
+    "reported_percent": 15,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q18",
+    "option": "Encourages child vaccination",
+    "reported_percent": 42,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Guatemala",
+    "item": "Q18",
+    "option": "Not sure",
+    "reported_percent": 25,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q06",
+    "option": "No, it does not matter to me what my religious leaders believe about the COVID-19 vaccine",
+    "reported_percent": 28,
+    "conditions": {},
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q06",
+    "option": "Not sure",
+    "reported_percent": 26,
+    "conditions": {},
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q06",
+    "option": "Yes, it matters what my religious leaders believe about the COVID-19 vaccine and if they support it",
+    "reported_percent": 29,
+    "conditions": {},
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q07",
+    "option": "Yes",
+    "reported_percent": 76,
+    "conditions": {},
+    "source": "report PDF p20"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q08",
+    "option": "No",
+    "reported_percent": 49,
+    "conditions": {},
+    "source": "report PDF p18"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q08",
+    "option": "Yes",
+    "reported_percent": 51,
+    "conditions": {},
+    "source": "report PDF p18"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q09",
+    "option": "No",
+    "reported_percent": 39,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q09",
+    "option": "Not sure",
+    "reported_percent": 39,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q09",
+    "option": "Yes",
+    "reported_percent": 21,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q10",
+    "option": "I am afraid of the potential side effects of the COVID-19 Vaccine",
+    "reported_percent": 20,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q10",
+    "option": "Other",
+    "reported_percent": 22,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q11",
+    "option": "Family member",
+    "reported_percent": 21,
+    "conditions": {},
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q11",
+    "option": "Health worker",
+    "reported_percent": 40,
+    "conditions": {},
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q11",
+    "option": "Other",
+    "reported_percent": 20,
+    "conditions": {},
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q12",
+    "option": "Clear information on vaccine safety and side effects",
+    "reported_percent": 28,
+    "conditions": {},
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q12",
+    "option": "Other",
+    "reported_percent": 20,
+    "conditions": {},
+    "source": "report PDF p28"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q14",
+    "option": "Not at all important",
+    "reported_percent": 12,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q14",
+    "option": "Not sure",
+    "reported_percent": 29,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q14",
+    "option": "Somehow Important",
+    "reported_percent": 17,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q14",
+    "option": "Very Important",
+    "reported_percent": 42,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q15",
+    "option": "Family member",
+    "reported_percent": 20,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q15",
+    "option": "Health worker",
+    "reported_percent": 33,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q15",
+    "option": "Other",
+    "reported_percent": 30,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q16",
+    "option": "No",
+    "reported_percent": 49,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q16",
+    "option": "Yes",
+    "reported_percent": 51,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q17",
+    "option": "No",
+    "reported_percent": 17,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q17",
+    "option": "No response",
+    "reported_percent": 0,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q17",
+    "option": "Not sure",
+    "reported_percent": 41,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q17",
+    "option": "Only some religious leaders support vaccination for children",
+    "reported_percent": 16,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q17",
+    "option": "Yes",
+    "reported_percent": 26,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q18",
+    "option": "Discourages child vaccination",
+    "reported_percent": 18,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q18",
+    "option": "Does not affect decision for child vaccination",
+    "reported_percent": 20,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q18",
+    "option": "Encourages child vaccination",
+    "reported_percent": 31,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Iraq",
+    "item": "Q18",
+    "option": "Not sure",
+    "reported_percent": 31,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q07",
+    "option": "No",
+    "reported_percent": 12,
+    "conditions": {},
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q07",
+    "option": "Yes",
+    "reported_percent": 79,
+    "conditions": {},
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q08",
+    "option": "No",
+    "reported_percent": 18,
+    "conditions": {},
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q08",
+    "option": "Yes",
+    "reported_percent": 82,
+    "conditions": {},
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q09",
+    "option": "No",
+    "reported_percent": 36,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q09",
+    "option": "Not sure",
+    "reported_percent": 14,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q09",
+    "option": "Yes",
+    "reported_percent": 50,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q10",
+    "option": "I am afraid of the potential side effects of the COVID-19 Vaccine",
+    "reported_percent": 28,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q10",
+    "option": "I am not confident that the vaccine will protect me",
+    "reported_percent": 16,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q10",
+    "option": "I believe God/Allah/Adonai/gods and goddesses/higher power will protect me from COVID-19",
+    "reported_percent": 8,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q10",
+    "option": "I do not feel at risk of catching COVID-19",
+    "reported_percent": 30,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q10",
+    "option": "It's not that serious. If I catch COVID-19 I can recover without vaccine",
+    "reported_percent": 15,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q10",
+    "option": "Other",
+    "reported_percent": 3,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q11",
+    "option": "Family member",
+    "reported_percent": 23,
+    "conditions": {},
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q11",
+    "option": "Health worker",
+    "reported_percent": 41,
+    "conditions": {},
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q11",
+    "option": "Other",
+    "reported_percent": 11,
+    "conditions": {},
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q12",
+    "option": "Clear information on vaccine safety and side effects",
+    "reported_percent": 37,
+    "conditions": {},
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q12",
+    "option": "Seeing religious leaders lead by example through taking the vaccine publicly",
+    "reported_percent": 28,
+    "conditions": {},
+    "source": "report PDF p23"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q14",
+    "option": "Not at all important",
+    "reported_percent": 6,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q14",
+    "option": "Not sure",
+    "reported_percent": 3,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q14",
+    "option": "Somehow Important",
+    "reported_percent": 17,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q14",
+    "option": "Very Important",
+    "reported_percent": 74,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q15",
+    "option": "Family member",
+    "reported_percent": 22,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q15",
+    "option": "Health worker",
+    "reported_percent": 61,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q15",
+    "option": "Other",
+    "reported_percent": 7,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q16",
+    "option": "No",
+    "reported_percent": 15,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q16",
+    "option": "Yes",
+    "reported_percent": 85,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q17",
+    "option": "No",
+    "reported_percent": 3,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q17",
+    "option": "No response",
+    "reported_percent": 0,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q17",
+    "option": "Not sure",
+    "reported_percent": 4,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q17",
+    "option": "Only some religious leaders support vaccination for children",
+    "reported_percent": 20,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q17",
+    "option": "Yes",
+    "reported_percent": 73,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q18",
+    "option": "Discourages child vaccination",
+    "reported_percent": 5,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q18",
+    "option": "Does not affect decision for child vaccination",
+    "reported_percent": 10,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q18",
+    "option": "Encourages child vaccination",
+    "reported_percent": 78,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Kenya",
+    "item": "Q18",
+    "option": "Not sure",
+    "reported_percent": 7,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q07",
+    "option": "Yes",
+    "reported_percent": 75,
+    "conditions": {},
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q08",
+    "option": "No",
+    "reported_percent": 31,
+    "conditions": {},
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q08",
+    "option": "Yes",
+    "reported_percent": 69,
+    "conditions": {},
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q09",
+    "option": "No",
+    "reported_percent": 29,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q09",
+    "option": "Not sure",
+    "reported_percent": 22,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q09",
+    "option": "Yes",
+    "reported_percent": 48,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q10",
+    "option": "I am afraid of the potential side effects of the COVID-19 Vaccine",
+    "reported_percent": 20,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q10",
+    "option": "I am not confident that the vaccine will protect me",
+    "reported_percent": 14,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q10",
+    "option": "I believe God/Allah/Adonai/gods and goddesses/higher power will protect me from COVID-19",
+    "reported_percent": 10,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q10",
+    "option": "I do not feel at risk of catching COVID-19",
+    "reported_percent": 38,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q10",
+    "option": "It's not that serious. If I catch COVID-19 I can recover without vaccine",
+    "reported_percent": 12,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q10",
+    "option": "Other",
+    "reported_percent": 5,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q11",
+    "option": "Family member",
+    "reported_percent": 24,
+    "conditions": {},
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q11",
+    "option": "Health worker",
+    "reported_percent": 55,
+    "conditions": {},
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q11",
+    "option": "Peer/friend",
+    "reported_percent": 7,
+    "conditions": {},
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q11",
+    "option": "Religious leader",
+    "reported_percent": 4,
+    "conditions": {},
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q12",
+    "option": "Clear information on vaccine safety and side effects",
+    "reported_percent": 44,
+    "conditions": {},
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q12",
+    "option": "Seeing religious leaders lead by example through taking the vaccine publicly",
+    "reported_percent": 33,
+    "conditions": {},
+    "source": "report PDF p24"
+  },
+  {
+    "country": "Mali",
+    "item": "Q14",
+    "option": "Not at all important",
+    "reported_percent": 20,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q14",
+    "option": "Not sure",
+    "reported_percent": 2,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q14",
+    "option": "Somehow Important",
+    "reported_percent": 12,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q14",
+    "option": "Very Important",
+    "reported_percent": 66,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q15",
+    "option": "Family member",
+    "reported_percent": 26,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q15",
+    "option": "Health worker",
+    "reported_percent": 62,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q15",
+    "option": "Other",
+    "reported_percent": 5,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q16",
+    "option": "No",
+    "reported_percent": 15,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q16",
+    "option": "Yes",
+    "reported_percent": 85,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q17",
+    "option": "No",
+    "reported_percent": 4,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q17",
+    "option": "No response",
+    "reported_percent": 0.1,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q17",
+    "option": "Not sure",
+    "reported_percent": 6,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q17",
+    "option": "Only some religious leaders support vaccination for children",
+    "reported_percent": 15,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q17",
+    "option": "Yes",
+    "reported_percent": 76,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q18",
+    "option": "Discourages child vaccination",
+    "reported_percent": 5,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q18",
+    "option": "Does not affect decision for child vaccination",
+    "reported_percent": 12,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q18",
+    "option": "Encourages child vaccination",
+    "reported_percent": 79,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Mali",
+    "item": "Q18",
+    "option": "Not sure",
+    "reported_percent": 4,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q06",
+    "option": "No, it does not matter to me what my religious leaders believe about the COVID-19 vaccine",
+    "reported_percent": 65,
+    "conditions": {},
+    "source": "report PDF p29"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q07",
+    "option": "Yes",
+    "reported_percent": 78,
+    "conditions": {},
+    "source": "report PDF p20"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q08",
+    "option": "No",
+    "reported_percent": 7,
+    "conditions": {},
+    "source": "report PDF p29"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q08",
+    "option": "Yes",
+    "reported_percent": 93,
+    "conditions": {},
+    "source": "report PDF p29"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q09",
+    "option": "No",
+    "reported_percent": 29,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p29"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q09",
+    "option": "Not sure",
+    "reported_percent": 5,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p29"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q09",
+    "option": "Yes",
+    "reported_percent": 65,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p29"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q11",
+    "option": "Health worker",
+    "reported_percent": 57,
+    "conditions": {},
+    "source": "report PDF p29"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q12",
+    "option": "Clear information on vaccine safety and side effects",
+    "reported_percent": 57,
+    "conditions": {},
+    "source": "report PDF p29"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q12",
+    "option": "Other",
+    "reported_percent": 20,
+    "conditions": {},
+    "source": "report PDF p29"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q14",
+    "option": "Not at all important",
+    "reported_percent": 9,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q14",
+    "option": "Not sure",
+    "reported_percent": 2,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q14",
+    "option": "Somehow Important",
+    "reported_percent": 13,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q14",
+    "option": "Very Important",
+    "reported_percent": 76,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q15",
+    "option": "Family member",
+    "reported_percent": 17,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q15",
+    "option": "Health worker",
+    "reported_percent": 75,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q15",
+    "option": "Other",
+    "reported_percent": 4,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q16",
+    "option": "No",
+    "reported_percent": 10,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q16",
+    "option": "Yes",
+    "reported_percent": 90,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q17",
+    "option": "No",
+    "reported_percent": 41,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q17",
+    "option": "No response",
+    "reported_percent": 0,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q17",
+    "option": "Not sure",
+    "reported_percent": 13,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q17",
+    "option": "Only some religious leaders support vaccination for children",
+    "reported_percent": 10,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q17",
+    "option": "Yes",
+    "reported_percent": 37,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q18",
+    "option": "Discourages child vaccination",
+    "reported_percent": 4,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q18",
+    "option": "Does not affect decision for child vaccination",
+    "reported_percent": 23,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q18",
+    "option": "Encourages child vaccination",
+    "reported_percent": 65,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nepal",
+    "item": "Q18",
+    "option": "Not sure",
+    "reported_percent": 7,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q06",
+    "option": "No, it does not matter to me what my religious leaders believe about the COVID-19 vaccine",
+    "reported_percent": 20,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q06",
+    "option": "Not sure",
+    "reported_percent": 10,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q06",
+    "option": "Yes, it matters what my religious leaders believe about the COVID-19 vaccine and if they support it",
+    "reported_percent": 61,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q07",
+    "option": "No",
+    "reported_percent": 15,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q07",
+    "option": "Not sure",
+    "reported_percent": 13,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q07",
+    "option": "Yes",
+    "reported_percent": 72,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q08",
+    "option": "No",
+    "reported_percent": 31,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q08",
+    "option": "Yes",
+    "reported_percent": 69,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q09",
+    "option": "No",
+    "reported_percent": 29,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q09",
+    "option": "Not sure",
+    "reported_percent": 22,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q09",
+    "option": "Yes",
+    "reported_percent": 48,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q10",
+    "option": "I am afraid of the potential side effects of the COVID-19 Vaccine",
+    "reported_percent": 22,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q10",
+    "option": "I am not confident that the vaccine will protect me",
+    "reported_percent": 14,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q10",
+    "option": "I believe God/Allah/Adonai/gods and goddesses/higher power will protect me from COVID-19",
+    "reported_percent": 17,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q10",
+    "option": "I do not feel at risk of catching COVID-19",
+    "reported_percent": 27,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q10",
+    "option": "It's not that serious. If I catch COVID-19 I can recover without vaccine",
+    "reported_percent": 11,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q10",
+    "option": "Other",
+    "reported_percent": 5,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q11",
+    "option": "Family member",
+    "reported_percent": 26,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q11",
+    "option": "Health worker",
+    "reported_percent": 41,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q11",
+    "option": "Religious leader",
+    "reported_percent": 15,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q12",
+    "option": "Clear information on vaccine safety and side effects",
+    "reported_percent": 44,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q12",
+    "option": "Seeing religious leaders lead by example through taking the vaccine publicly",
+    "reported_percent": 33,
+    "conditions": {},
+    "source": "report PDF p25"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q14",
+    "option": "Not at all important",
+    "reported_percent": 13,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q14",
+    "option": "Not sure",
+    "reported_percent": 5,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q14",
+    "option": "Somehow Important",
+    "reported_percent": 18,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q14",
+    "option": "Very Important",
+    "reported_percent": 64,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q15",
+    "option": "Family member",
+    "reported_percent": 29,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q15",
+    "option": "Health worker",
+    "reported_percent": 45,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q15",
+    "option": "Other",
+    "reported_percent": 9,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q16",
+    "option": "No",
+    "reported_percent": 21,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q16",
+    "option": "Yes",
+    "reported_percent": 79,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q17",
+    "option": "No",
+    "reported_percent": 4,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q17",
+    "option": "No response",
+    "reported_percent": 0,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q17",
+    "option": "Not sure",
+    "reported_percent": 12,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q17",
+    "option": "Only some religious leaders support vaccination for children",
+    "reported_percent": 21,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q17",
+    "option": "Yes",
+    "reported_percent": 64,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q18",
+    "option": "Discourages child vaccination",
+    "reported_percent": 10,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q18",
+    "option": "Does not affect decision for child vaccination",
+    "reported_percent": 6,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q18",
+    "option": "Encourages child vaccination",
+    "reported_percent": 73,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Nigeria",
+    "item": "Q18",
+    "option": "Not sure",
+    "reported_percent": 12,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q06",
+    "option": "No, it does not matter to me what my religious leaders believe about the COVID-19 vaccine",
+    "reported_percent": 27,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q06",
+    "option": "Not sure",
+    "reported_percent": 27,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q06",
+    "option": "Yes, it matters what my religious leaders believe about the COVID-19 vaccine and if they support it",
+    "reported_percent": 40,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q07",
+    "option": "Yes",
+    "reported_percent": 51,
+    "conditions": {},
+    "source": "report PDF p20"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q08",
+    "option": "No",
+    "reported_percent": 24,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q08",
+    "option": "Yes",
+    "reported_percent": 76,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q09",
+    "option": "No",
+    "reported_percent": 32,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q09",
+    "option": "Not sure",
+    "reported_percent": 22,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q09",
+    "option": "Yes",
+    "reported_percent": 46,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q10",
+    "option": "Goes against my religious belief",
+    "reported_percent": 2,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q10",
+    "option": "I am afraid of the potential side effects of the COVID-19 Vaccine",
+    "reported_percent": 8,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q10",
+    "option": "I am not confident that the vaccine will protect me",
+    "reported_percent": 8,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q10",
+    "option": "I believe God/Allah/Adonai/gods and goddesses/higher power will protect me from COVID-19",
+    "reported_percent": 19,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q10",
+    "option": "I do not feel at risk of catching COVID-19",
+    "reported_percent": 27,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q10",
+    "option": "It's not that serious. If I catch COVID-19 I can recover without vaccine",
+    "reported_percent": 32,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q10",
+    "option": "Other",
+    "reported_percent": 8,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q11",
+    "option": "Family member",
+    "reported_percent": 34,
+    "conditions": {},
+    "source": "report PDF p31"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q11",
+    "option": "Health worker",
+    "reported_percent": 34,
+    "conditions": {},
+    "source": "report PDF p31"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q11",
+    "option": "Other",
+    "reported_percent": 13,
+    "conditions": {},
+    "source": "report PDF p31"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q11",
+    "option": "Peer/friend",
+    "reported_percent": 7,
+    "conditions": {},
+    "source": "report PDF p31"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q11",
+    "option": "Religious leader",
+    "reported_percent": 7,
+    "conditions": {},
+    "source": "report PDF p31"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q12",
+    "option": "Clear information on vaccine safety and side effects",
+    "reported_percent": 28,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q12",
+    "option": "Doing my part to protect my community",
+    "reported_percent": 4,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q12",
+    "option": "Government guidance",
+    "reported_percent": 9,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q12",
+    "option": "Other",
+    "reported_percent": 4,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q12",
+    "option": "Public statements by influential persons",
+    "reported_percent": 2,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q12",
+    "option": "Seeing religious leaders lead by example through taking the vaccine publicly",
+    "reported_percent": 27,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q12",
+    "option": "Social media or traditional media",
+    "reported_percent": 6,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q12",
+    "option": "Strong recommendation from the persons I trust most",
+    "reported_percent": 19,
+    "conditions": {},
+    "source": "report PDF p30"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q14",
+    "option": "Not at all important",
+    "reported_percent": 11,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q14",
+    "option": "Not sure",
+    "reported_percent": 4,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q14",
+    "option": "Somehow Important",
+    "reported_percent": 35,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q14",
+    "option": "Very Important",
+    "reported_percent": 50,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q15",
+    "option": "Family member",
+    "reported_percent": 41,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q15",
+    "option": "Health worker",
+    "reported_percent": 40,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q15",
+    "option": "Other",
+    "reported_percent": 8,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q16",
+    "option": "No",
+    "reported_percent": 19,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q16",
+    "option": "Yes",
+    "reported_percent": 81,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q17",
+    "option": "No",
+    "reported_percent": 7,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q17",
+    "option": "No response",
+    "reported_percent": 0,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q17",
+    "option": "Not sure",
+    "reported_percent": 16,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q17",
+    "option": "Only some religious leaders support vaccination for children",
+    "reported_percent": 17,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q17",
+    "option": "Yes",
+    "reported_percent": 59,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q18",
+    "option": "Discourages child vaccination",
+    "reported_percent": 9,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q18",
+    "option": "Does not affect decision for child vaccination",
+    "reported_percent": 8,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q18",
+    "option": "Encourages child vaccination",
+    "reported_percent": 64,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Pakistan",
+    "item": "Q18",
+    "option": "Not sure",
+    "reported_percent": 18,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q06",
+    "option": "Yes, it matters what my religious leaders believe about the COVID-19 vaccine and if they support it",
+    "reported_percent": 63,
+    "conditions": {},
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q07",
+    "option": "Yes",
+    "reported_percent": 75,
+    "conditions": {},
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q08",
+    "option": "No",
+    "reported_percent": 22,
+    "conditions": {},
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q08",
+    "option": "Yes",
+    "reported_percent": 78,
+    "conditions": {},
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q09",
+    "option": "No",
+    "reported_percent": 40,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q09",
+    "option": "Not sure",
+    "reported_percent": 16,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q09",
+    "option": "Yes",
+    "reported_percent": 44,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q10",
+    "option": "I am afraid of the potential side effects of the COVID-19 Vaccine",
+    "reported_percent": 19,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q10",
+    "option": "I am not confident that the vaccine will protect me",
+    "reported_percent": 17,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q10",
+    "option": "I believe God/Allah/Adonai/gods and goddesses/higher power will protect me from COVID-19",
+    "reported_percent": 13,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q10",
+    "option": "I do not feel at risk of catching COVID-19",
+    "reported_percent": 27,
+    "conditions": {
+      "Q08": "No"
+    },
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q11",
+    "option": "Family member",
+    "reported_percent": 25,
+    "conditions": {},
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q11",
+    "option": "Health worker",
+    "reported_percent": 44,
+    "conditions": {},
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q11",
+    "option": "Religious leader",
+    "reported_percent": 12,
+    "conditions": {},
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q12",
+    "option": "Clear information on vaccine safety and side effects",
+    "reported_percent": 30,
+    "conditions": {},
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q12",
+    "option": "Seeing religious leaders lead by example through taking the vaccine publicly",
+    "reported_percent": 39,
+    "conditions": {},
+    "source": "report PDF p26"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q14",
+    "option": "Not at all important",
+    "reported_percent": 10,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q14",
+    "option": "Not sure",
+    "reported_percent": 3,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q14",
+    "option": "Somehow Important",
+    "reported_percent": 28,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q14",
+    "option": "Very Important",
+    "reported_percent": 58,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q15",
+    "option": "Family member",
+    "reported_percent": 24,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q15",
+    "option": "Health worker",
+    "reported_percent": 57,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q15",
+    "option": "Other",
+    "reported_percent": 7,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q16",
+    "option": "No",
+    "reported_percent": 16,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q16",
+    "option": "Yes",
+    "reported_percent": 84,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q17",
+    "option": "No",
+    "reported_percent": 4,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q17",
+    "option": "No response",
+    "reported_percent": 0,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q17",
+    "option": "Not sure",
+    "reported_percent": 8,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q17",
+    "option": "Only some religious leaders support vaccination for children",
+    "reported_percent": 18,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q17",
+    "option": "Yes",
+    "reported_percent": 70,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q18",
+    "option": "Discourages child vaccination",
+    "reported_percent": 8,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q18",
+    "option": "Does not affect decision for child vaccination",
+    "reported_percent": 7,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q18",
+    "option": "Encourages child vaccination",
+    "reported_percent": 76,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  },
+  {
+    "country": "Zambia",
+    "item": "Q18",
+    "option": "Not sure",
+    "reported_percent": 9,
+    "conditions": {
+      "Q13": "Yes"
+    },
+    "source": "report section 3.5"
+  }
+]

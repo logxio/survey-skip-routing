@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img" aria-label="Skip-logic KL routing and three fieldwork regimes across UNHCR, UNICEF, and World Bank">
+<rect x="0.50" y="0.50" width="959.00" height="299.00" rx="8" fill="#13171E" stroke="#2A323E" stroke-width="1"/>
+<text x="32" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#EAEEF3" text-anchor="start" xml:space="preserve"><tspan>T</tspan><tspan font-size="10.1" dy="3">ρ</tspan><tspan dy="-3"> skip projection</tspan></text>
+<text x="400" y="40" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11" font-weight="400" fill="#96A2B2" text-anchor="end" xml:space="preserve">LLM · TabPFN · GBDT</text>
+<path d="M120.00 112.00 L216.48 112.00 L235.78 168.00 L120.00 168.00 Z" fill="#1A2738"/>
+<path d="M216.48 112.00 L280.80 112.00 L312.96 168.00 L235.78 168.00 Z" fill="#1A2738"/>
+<path d="M280.80 112.00 L334.40 112.00 L377.28 168.00 L312.96 168.00 Z" fill="#1A2738"/>
+<path d="M334.40 112.00 L388.00 112.00 L388.00 168.00 L377.28 168.00 Z" fill="#382919"/>
+<line x1="216.48" y1="112" x2="235.776" y2="168" stroke="#6CA2DE" stroke-width="0.75"/>
+<line x1="280.79999999999995" y1="112" x2="312.96000000000004" y2="168" stroke="#6CA2DE" stroke-width="0.75"/>
+<line x1="334.4" y1="112" x2="377.28000000000003" y2="168" stroke="#E09B48" stroke-width="0.75"/>
+<rect x="120.00" y="84.00" width="96.48" height="28.00" rx="0" fill="#35577D" stroke="#6CA2DE" stroke-width="1"/>
+<text x="168.24" y="102.0" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve">0.36</text>
+<rect x="216.48" y="84.00" width="64.32" height="28.00" rx="0" fill="#2A4563" stroke="#6CA2DE" stroke-width="1"/>
+<text x="248.64" y="102.0" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve">0.24</text>
+<rect x="280.80" y="84.00" width="53.60" height="28.00" rx="0" fill="#1D2E42" stroke="#6CA2DE" stroke-width="1"/>
+<text x="307.59999999999997" y="102.0" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve">0.20</text>
+<rect x="334.40" y="84.00" width="53.60" height="28.00" rx="0" fill="#382919" stroke="#E09B48" stroke-width="1"/>
+<text x="361.2" y="102.0" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve">0.20</text>
+<rect x="120.00" y="168.00" width="115.78" height="28.00" rx="0" fill="#35577D" stroke="#6CA2DE" stroke-width="1"/>
+<text x="177.888" y="186.0" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve">0.432</text>
+<rect x="235.78" y="168.00" width="77.18" height="28.00" rx="0" fill="#2A4563" stroke="#6CA2DE" stroke-width="1"/>
+<text x="274.368" y="186.0" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve">0.288</text>
+<rect x="312.96" y="168.00" width="64.32" height="28.00" rx="0" fill="#1D2E42" stroke="#6CA2DE" stroke-width="1"/>
+<text x="345.12" y="186.0" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve">0.240</text>
+<rect x="377.28" y="168.00" width="10.72" height="28.00" rx="0" fill="#382919" stroke="#E09B48" stroke-width="1"/>
+<text x="110" y="95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#96A2B2" text-anchor="end" xml:space="preserve">Base</text>
+<text x="110" y="109" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#EAEEF3" text-anchor="end" xml:space="preserve">b</text>
+<text x="110" y="179" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#96A2B2" text-anchor="end" xml:space="preserve">Routed</text>
+<text x="110" y="193" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#EAEEF3" text-anchor="end" xml:space="preserve"><tspan>T</tspan><tspan font-size="8.6" dy="3">ρ</tspan><tspan dy="-3">(b)</tspan></text>
+<text x="361.2" y="76" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10" font-weight="400" fill="#E09B48" text-anchor="middle" xml:space="preserve">NA_GATED</text>
+<text x="227.2" y="76" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10" font-weight="400" fill="#96A2B2" text-anchor="middle" xml:space="preserve">asked</text>
+<rect x="166.06" y="129.00" width="133.15" height="22.00" rx="11" fill="#13171E" stroke="#2A323E" stroke-width="1"/>
+<text x="232.64000000000001" y="144.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve">odds 9 : 6 : 5 invariant</text>
+<text x="388.00000000000006" y="212" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" font-weight="700" fill="#E09B48" text-anchor="end" xml:space="preserve">skip 0.20 → 0.04</text>
+<text x="32" y="250" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12.5" font-weight="400" fill="#EAEEF3" text-anchor="start" xml:space="preserve"><tspan>(T</tspan><tspan font-size="9.0" dy="3">ρ</tspan><tspan dy="-3">b)</tspan><tspan font-size="9.0" dy="3">k</tspan><tspan dy="-3"> = (1 − ρ) b</tspan><tspan font-size="9.0" dy="3">k</tspan><tspan dy="-3"> / (1 − b</tspan><tspan font-size="9.0" dy="3">s</tspan><tspan dy="-3">)</tspan></text>
+<text x="32" y="276" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12.5" font-weight="400" fill="#EAEEF3" text-anchor="start" xml:space="preserve"><tspan>n</tspan><tspan font-size="9.0" dy="3">eff</tspan><tspan dy="-3"> / n = (SE</tspan><tspan font-size="9.0" dy="3">human</tspan><tspan dy="-3"> / SE</tspan><tspan font-size="9.0" dy="3">PPI</tspan><tspan dy="-3">)²</tspan></text>
+<line x1="420" y1="28" x2="420" y2="272" stroke="#2A323E" stroke-width="1"/>
+<text x="444" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#EAEEF3" text-anchor="start" xml:space="preserve">Three fieldwork regimes</text>
+<text x="928" y="40" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#EAEEF3" text-anchor="end" xml:space="preserve">0.4857</text>
+<text x="878.65" y="40" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" font-weight="400" fill="#96A2B2" text-anchor="end" xml:space="preserve">#1059644 · Test</text>
+<text x="626" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="9" font-weight="400" fill="#96A2B2" text-anchor="start" xml:space="preserve" letter-spacing="0.8">TEST SKILL</text>
+<rect x="444.00" y="90.00" width="3.00" height="40.00" rx="0" fill="#6CA2DE" stroke="none" stroke-width="1"/>
+<text x="455" y="106" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#EAEEF3" text-anchor="start" xml:space="preserve">Deep branching &amp; waves</text>
+<text x="455" y="124" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#96A2B2" text-anchor="start" xml:space="preserve">UNHCR · +0.2401 lift</text>
+<rect x="626.00" y="97.00" width="100.00" height="10.00" rx="0" fill="#1F2530" stroke="none" stroke-width="1"/>
+<rect x="626.00" y="97.00" width="87.81" height="10.00" rx="0" fill="#6CA2DE" stroke="none" stroke-width="1"/>
+<text x="732" y="106.0" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11.5" font-weight="700" fill="#EAEEF3" text-anchor="start" xml:space="preserve">0.8781</text>
+<text x="626" y="124" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#96A2B2" text-anchor="start" xml:space="preserve">57 → 11 → 145 items</text>
+<rect x="792.00" y="90.00" width="136.00" height="40.00" rx="6" fill="#1D2E42" stroke="#6CA2DE" stroke-width="1"/>
+<text x="860.0" y="106" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#6CA2DE" text-anchor="middle" xml:space="preserve">PPI++ 1.36×</text>
+<text x="860.0" y="123" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve"><tspan>n</tspan><tspan font-size="7.6" dy="3">eff</tspan><tspan dy="-3"> peak · RECS</tspan></text>
+<line x1="444" y1="142" x2="928" y2="142" stroke="#2A323E" stroke-width="1"/>
+<rect x="444.00" y="156.00" width="3.00" height="40.00" rx="0" fill="#E09B48" stroke="none" stroke-width="1"/>
+<text x="455" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#EAEEF3" text-anchor="start" xml:space="preserve">Block panel attrition</text>
+<text x="455" y="190" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#96A2B2" text-anchor="start" xml:space="preserve">World Bank · 6 m</text>
+<text x="626" y="172" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="11" font-weight="700" fill="#EAEEF3" text-anchor="start" xml:space="preserve">NLL 0.2310 → 0.2217</text>
+<text x="626" y="190" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#96A2B2" text-anchor="start" xml:space="preserve">19-item dropout 61.7%</text>
+<rect x="792.00" y="156.00" width="136.00" height="40.00" rx="6" fill="#382919" stroke="#E09B48" stroke-width="1"/>
+<text x="860.0" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#E09B48" text-anchor="middle" xml:space="preserve">PPI++</text>
+<text x="860.0" y="189" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve">+ attrition bounds</text>
+<line x1="444" y1="208" x2="928" y2="208" stroke="#2A323E" stroke-width="1"/>
+<rect x="444.00" y="222.00" width="3.00" height="40.00" rx="0" fill="#C7999F" stroke="none" stroke-width="1"/>
+<text x="455" y="238" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#EAEEF3" text-anchor="start" xml:space="preserve">Coarse-strata attitudes</text>
+<text x="455" y="256" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#96A2B2" text-anchor="start" xml:space="preserve">UNICEF · WB baseline</text>
+<rect x="626.00" y="222.00" width="100.00" height="7.00" rx="0" fill="#1F2530" stroke="none" stroke-width="1"/>
+<rect x="626.00" y="222.00" width="34.18" height="7.00" rx="0" fill="#C7999F" stroke="none" stroke-width="1"/>
+<text x="732" y="229.5" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10" font-weight="700" fill="#EAEEF3" text-anchor="start" xml:space="preserve">0.3418</text>
+<rect x="626.00" y="237.00" width="100.00" height="7.00" rx="0" fill="#1F2530" stroke="none" stroke-width="1"/>
+<rect x="626.00" y="237.00" width="23.72" height="7.00" rx="0" fill="#C7999F" stroke="none" stroke-width="1"/>
+<text x="732" y="244.5" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10" font-weight="700" fill="#EAEEF3" text-anchor="start" xml:space="preserve">0.2372</text>
+<text x="626" y="256" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#96A2B2" text-anchor="start" xml:space="preserve">7–9 covariates</text>
+<rect x="792.00" y="222.00" width="136.00" height="40.00" rx="6" fill="#312327" stroke="#C7999F" stroke-width="1"/>
+<text x="860.0" y="238" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#C7999F" text-anchor="middle" xml:space="preserve">Human anchor</text>
+<text x="860.0" y="255" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#EAEEF3" text-anchor="middle" xml:space="preserve">λ̂ → 0 · ANES 1.05×</text>
+</svg>

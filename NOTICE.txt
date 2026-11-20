@@ -1,0 +1,17 @@
+The TABPFN-3.5 Model is licensed by Prior Labs GmbH under the TABPFN-3.5 Non-Commercial License.
+Copyright © Prior Labs GmbH 2026.
+THE SERVICES ARE PROVIDED FREE OF CHARGE: COMPANY SHALL NOT BE LIABLE FOR DAMAGES RESULTING FROM SLIGHT NEGLIGENCE. LIABILITY FOR GROSS NEGLIGENCE AND INTENTIONAL MISCONDUCT REMAINS UNAFFECTED.
+
+The enclosed LICENSE_TabPFN-3.5.txt is the model license. Rights to use the
+TABPFN-3.5 Model are granted directly by Prior Labs GmbH under that license.
+
+Official checkpoints: Prior-Labs/tabpfn_3_5
+revision 06bf2ba35c80a92a3b9abb436b99cf49e7a0365e.
+tabpfn-v3.5-20260909.safetensors and tabpfn-v3.5-20260909_multiclass.safetensors.
+
+Kumo-Tabular Large classifier: Copyright NVIDIA Corporation and Affiliates.
+Official weights: nvidia/Kumo-Tabular, revision c5893d418e162b9f841ae179dc767afefff73831.
+large/classifier.pt is used directly without a re-saved checkpoint.
+Weights are distributed under the OpenMDW License Agreement 1.1.
+The enclosed LICENSE_Kumo-Tabular.txt is retained verbatim.
+Runtime checks verify the published SHA256 of every checkpoint before use.

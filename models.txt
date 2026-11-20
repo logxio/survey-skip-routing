@@ -1,0 +1,2 @@
+Prior-Labs/tabpfn_3_5
+nvidia/Kumo-Tabular
